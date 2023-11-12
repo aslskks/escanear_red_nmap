@@ -1,6 +1,6 @@
-# titulo
+# escanear red nmap
 
-&nbsp;descripcion
+&nbsp;escanea red nmap necesario ip
 
 ## Requisitos
 
@@ -10,10 +10,10 @@
 
 &nbsp;1. **Clonar el Repositorio:**
 
-&nbsp;&nbsp;git clone https://github.com/aslskks/  
-&nbsp;&nbsp;cd 
+&nbsp;&nbsp;git clone https://github.com/aslskks/escanear_red_nmap  
+&nbsp;&nbsp;cd escanear_red_nmap
 &nbsp;&nbsp;pip install -r requirements.txt
 
 &nbsp;2. **Ejecutar:**
 
-&nbsp;&nbsp;python archivoprincipal.py
+&nbsp;&nbsp;python escaner.py
